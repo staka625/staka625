@@ -14,5 +14,5 @@
 徳大フリーマーケットデベロッパーNo.5
 
 # Experiences
-AtCoder Rating 273 (灰)の雑魚コーダー  
+AtCoder Rating 333 (灰)の雑魚コーダー  
 Swing-byeで製作したゲーム「ぷるりんの冒険」で日本ゲーム大賞2019 U18部門予選大会出場
