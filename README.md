@@ -18,6 +18,6 @@
 
 # Experiences
 
-AtCoder : [Coal_33](https://atcoder.jp/users/Coal_33)
-作った楽曲 : [Coal(DTM)](https://coal-ongaku.github.io)
+AtCoder : [Coal_33](https://atcoder.jp/users/Coal_33)  
+作った楽曲 : [Coal(DTM)](https://coal-ongaku.github.io)  
 Swing-bye で製作したゲーム「ぷるりんの冒険」で日本ゲーム大賞 2019 U18 部門予選大会出場
